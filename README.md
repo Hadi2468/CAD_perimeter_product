@@ -1,5 +1,4 @@
-# CAD_perimeter_product
-# CAD Perimeter Product
+# CAD Perimeter product
 In this problem, a list of line segments is given, and each segment has the coordination of its start and end points:
 
 [((x1, y1), (x2, y2)), ((x1, y1), (x3, y3)), ((x3, y3), (x4, y4)), …] 
